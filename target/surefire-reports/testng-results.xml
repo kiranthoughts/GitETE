@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-09-18T22:23:45 BST" name="Command line suite" finished-at="2020-09-18T22:23:45 BST" duration-ms="91">
+    <groups>
+    </groups>
+    <test started-at="2020-09-18T22:23:45 BST" name="Command line test" finished-at="2020-09-18T22:23:45 BST" duration-ms="91">
+      <class name="MavenProject.seleniumTest">
+        <test-method signature="uielement()[pri:0, instance:MavenProject.seleniumTest@7a30d1e6]" started-at="2020-09-18T22:23:45 BST" name="uielement" finished-at="2020-09-18T22:23:45 BST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uielement -->
+        <test-method signature="uiobject()[pri:0, instance:MavenProject.seleniumTest@7a30d1e6]" started-at="2020-09-18T22:23:45 BST" name="uiobject" finished-at="2020-09-18T22:23:45 BST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uiobject -->
+      </class> <!-- MavenProject.seleniumTest -->
+      <class name="MavenProject.selenium2Test">
+        <test-method signature="uielement2()[pri:0, instance:MavenProject.selenium2Test@553a3d88]" started-at="2020-09-18T22:23:45 BST" name="uielement2" finished-at="2020-09-18T22:23:45 BST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uielement2 -->
+        <test-method signature="uiobject2()[pri:0, instance:MavenProject.selenium2Test@553a3d88]" started-at="2020-09-18T22:23:45 BST" name="uiobject2" finished-at="2020-09-18T22:23:45 BST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uiobject2 -->
+      </class> <!-- MavenProject.selenium2Test -->
+      <class name="MavenProject.selenium1Test">
+        <test-method signature="uielement1()[pri:0, instance:MavenProject.selenium1Test@64f6106c]" started-at="2020-09-18T22:23:45 BST" name="uielement1" finished-at="2020-09-18T22:23:45 BST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uielement1 -->
+        <test-method signature="uiobject1()[pri:0, instance:MavenProject.selenium1Test@64f6106c]" started-at="2020-09-18T22:23:45 BST" name="uiobject1" finished-at="2020-09-18T22:23:45 BST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uiobject1 -->
+      </class> <!-- MavenProject.selenium1Test -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
