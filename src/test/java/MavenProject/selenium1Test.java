@@ -18,5 +18,13 @@ public class selenium1Test {
 		
 
 	}
+	@Test 
+	public void uiobject2()
+	{
+		System.out.println("hi this is selenium object two");
+		
+
+	}
+
 
 }

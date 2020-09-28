@@ -18,5 +18,11 @@ public class selenium2Test {
 		
 
 	}
+	public void uiobject3()
+	{
+		System.out.println("hi this is selenium object 3");
+		
+
+	}
 
 }
